@@ -7,6 +7,14 @@ An AI-powered terminal emulator built with Electron, React, and xterm.js.
 - Node.js (v16 or higher)
 - npm
 
+### Windows Requirements
+
+Run the provided batch script to install dependencies:
+
+```cmd
+setup-win.bat
+```
+
 ### Linux/WSL Requirements
 
 For convenience, you can run the provided setup script to install necessary system libraries and project dependencies:
